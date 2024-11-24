@@ -1,0 +1,4 @@
+Flask
+folium
+gspread
+oauth2client
